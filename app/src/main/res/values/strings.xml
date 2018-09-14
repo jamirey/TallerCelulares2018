@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TallerCelulares</string>
+    <string name="registrar">Registrar</string>
+    <string name="cedula">Cédula</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="limpiar">LIMPIAR</string>
+    <string name="no">No.</string>
+    <string name="marca">Marca</string>
+    <string name="capacidad">Capacidad</string>
+    <string name="precio">Precio</string>
+    <string name="color">Color</string>
+    <string name="agregar">Agregar</string>
+    <string name="crear">Crear</string>
+    <string name="listar">Listar</string>
+    <string name="repor1">Reporte1</string>
+    <string name="repor2">Reporte2</string>
+    <string name="repor3">Reporte3</string>
+
+
+    <array name="Opciones">
+        <item>@string/crear</item>
+        <item>@string/listar</item>
+    </array>
+
+    <array name="Opciones2">
+        <item>@string/repor1</item>
+        <item>@string/repor2</item>
+        <item>@string/repor3</item>
+    </array>
+
+    <string name="mensaje_exitoso">Persona Guardada Exitosamente!</string>
+    <string name="sistemaoperativo">Sistema Operativo</string>
+    <string name="mensaje_error_campo_vacio">El campo no puede estar vacio</string>
+
+</resources>

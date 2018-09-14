@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cellular Workshop</string>
+    <string name="registrar">"to register "</string>
+    <string name="cedula">"Identification card "</string>
+    <string name="nombre">"First name "</string>
+    <string name="apellido">"Last name "</string>
+    <string name="guardar">SAVE</string>
+    <string name="limpiar">CLEAN</string>
+    <string name="no">No.</string>
+    <string name="marca">Brand</string>
+    <string name="capacidad">"Capacity "</string>
+    <string name="precio">Price</string>
+    <string name="color">"Color "</string>
+    <string name="agregar">Add</string>
+    <string name="mensaje_exitoso">"Person Stored Successfully! "</string>
+    <string name="mensaje_error_campo_vacio">"The field can not be empty "</string>
+    <string name="crear">Create</string>
+    <string name="listar">"To list "</string>
+    <string name="repor1">Report1</string>
+    <string name="repor2">Report2</string>
+    <string name="repor3">Report3</string>
+</resources>
